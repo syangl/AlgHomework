@@ -682,7 +682,6 @@ ahead
 aid
 aide
 aids
-ail
 ailment
 aim
 air
@@ -700,7 +699,6 @@ alarm
 album
 alcohol
 alcoholic
-ale
 alert
 algebra
 alien
@@ -847,7 +845,6 @@ anywhere
 apart
 apartment
 apt
-ape
 apology
 apologize
 apologise
@@ -1132,7 +1129,6 @@ banner
 banquet
 bar
 barbecue
-bbq
 barber
 bare
 barely
@@ -1290,7 +1286,6 @@ bless
 blind
 blessing
 blink
-bloc
 block
 blog
 blond
@@ -2050,7 +2045,6 @@ constraint
 construct
 construction
 consulate
-consul
 consult
 consultation
 consultative
@@ -2195,7 +2189,6 @@ country
 countryside
 county
 coup
-coup d'état
 couple
 coupon
 courage
@@ -2325,7 +2318,6 @@ dad
 daddy
 daily
 dairy
-dam
 damage
 damn
 cynicism
@@ -8517,8 +8509,6 @@ has
 having
 's
 'd
-d
-ve
 it
 its
 they
@@ -8537,8 +8527,6 @@ them
 'em
 you
 your
-ya
-ye
 not
 n't
 she
@@ -8548,15 +8536,12 @@ did
 does
 done
 doing
-du
 d'
 we
 our
 us
 will
 'll
-wo
-ll
 say
 said
 says
@@ -8564,7 +8549,6 @@ saying
 would
 'd
 can
-ca
 cans
 can
 could
@@ -13427,9 +13411,6 @@ guarded
 guarding
 hell
 hells
-h
-hed
-hs
 minimum
 minima
 italy
@@ -15784,7 +15765,6 @@ ally
 allies
 allied
 allying
-!allies
 satisfy
 satisfied
 satisfies
@@ -16323,8 +16303,6 @@ grammar
 grammars
 victoria
 victorias
-w
-ws
 shelf
 shelves
 allocate
@@ -18152,8 +18130,6 @@ evanss
 hungry
 hungrier
 hungriest
-re
-res
 timing
 timings
 autonomy
@@ -19225,7 +19201,6 @@ boils
 lively
 livelier
 liveliest
-ph
 phs
 headline
 headlines
@@ -19448,11 +19423,9 @@ odds
 oddss
 certainty
 certainties
-ie
 ies
 plea
 pleas
-fa
 fas
 fist
 fists
@@ -19960,20 +19933,12 @@ flock
 flocks
 flocked
 flocking
-
-
-
-
 cruel
 cruellest
 crueller
 cruelest
 inspiration
 inspirations
-
-
-
-
 safeguard
 safeguards
 safeguarding
@@ -20328,10 +20293,6 @@ braked
 braking
 churchill
 churchills
-
-
-
-
 selective
 selectives
 senate
@@ -20507,7 +20468,6 @@ cabin
 cabins
 shooting
 shootings
-br
 brer
 brest
 brring
@@ -20735,10 +20695,6 @@ attaining
 attains
 controller
 controllers
-en
-
-en
-
 marker
 markers
 temptation
@@ -21137,10 +21093,6 @@ goat
 goats
 provider
 providers
-
-
-
-
 bore
 bored
 boring
@@ -21670,7 +21622,6 @@ torch
 torches
 torched
 torching
-
 mason
 masons
 monkey
@@ -22135,10 +22086,6 @@ cargoes
 cargos
 eldest
 eldests
-
-
-
-
 geneva
 genevas
 manoeuvre
@@ -22797,14 +22744,6 @@ microphone
 microphones
 turning
 turnings
-
-
-
-
-
-
-
-
 floating
 floatings
 multimedia
@@ -22896,8 +22835,6 @@ heal
 healed
 healing
 heals
-lb
-lbs
 lincoln
 lincolns
 plague
@@ -23780,8 +23717,6 @@ defy
 defied
 defying
 defies
-la
-
 laziest
 lazier
 rex
@@ -24396,10 +24331,6 @@ tram
 trams
 tramming
 trammed
-
-
-
-
 coleridge
 coleridges
 foresee
@@ -24922,10 +24853,6 @@ discomfort
 discomforts
 discomforted
 discomforting
-
-
-
-
 fifteenth
 fifteenths
 franc
@@ -25048,10 +24975,6 @@ rim
 rims
 rimmed
 rimming
-
-
-
-
 coarse
 coarser
 coarsest
@@ -25338,7 +25261,6 @@ simplifies
 simplifying
 contradictory
 contradictories
-ex
 exes
 noon
 noons
@@ -25856,10 +25778,6 @@ deepen
 deepened
 deepening
 deepens
-
-
-
-
 realization
 realizations
 trickle
@@ -25949,10 +25867,6 @@ wellington
 wellingtons
 acknowledgement
 acknowledgements
-
-
-
-
 dedication
 dedications
 loft
@@ -26412,10 +26326,6 @@ fin
 fins
 finned
 finning
-
-
-
-
 sponge
 sponges
 sponged
@@ -26428,10 +26338,6 @@ pizza
 pizzas
 reversal
 reversals
-
-
-
-
 detachment
 detachments
 draught
@@ -26568,10 +26474,6 @@ lexicon
 lexicons
 pronunciation
 pronunciations
-
-
-
-
 enhancement
 enhancements
 nec
@@ -26612,8 +26514,6 @@ lincolnshire
 lincolnshires
 mattress
 mattresses
-sa
-sas
 spear
 spears
 speared
@@ -26622,7 +26522,6 @@ burrow
 burrows
 burrowing
 burrowed
-doe
 does
 gastrin
 gastrins
@@ -26654,10 +26553,6 @@ raking
 rakes
 setback
 setbacks
-
-
-
-
 disbelief
 disbeliefs
 goldsmith
@@ -26720,10 +26615,6 @@ reconstruct
 reconstructed
 reconstructing
 reconstructs
-
-
-
-
 tonic
 tonics
 ammunition
@@ -26742,10 +26633,6 @@ impairs
 impairing
 modigliani
 modiglianis
-
-
-
-
 recollection
 recollections
 refreshment
@@ -26840,8 +26727,6 @@ waterfall
 waterfalls
 antiquity
 antiquities
-ci
-cis
 geometric
 geometrics
 misuse
@@ -26874,8 +26759,6 @@ lifeboat
 lifeboats
 punk
 punks
-tt
-tts
 ventilation
 ventilations
 anomaly
@@ -26921,8 +26804,6 @@ loafed
 loafs
 runway
 runways
-sec
-secs
 deployment
 deployments
 intimacy
@@ -27150,10 +27031,6 @@ tsar
 tsars
 boiling
 boilings
-
-
-
-
 coating
 coatings
 crumble
@@ -27209,10 +27086,6 @@ frail
 frailer
 frailest
 frails
-
-
-
-
 colouring
 colourings
 maritime
@@ -27227,10 +27100,6 @@ tee
 tees
 teeing
 teed
-
-
-
-
 almond
 almonds
 artery
@@ -28074,10 +27943,6 @@ lust
 lusts
 lusted
 lusting
-
-
-
-
 switching
 switchings
 trumpet
@@ -28289,8 +28154,6 @@ diffuse
 diffused
 diffusing
 diffuses
-ee
-ees
 etcetera
 etceteras
 firework
